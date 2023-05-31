@@ -9,7 +9,7 @@ I'm Chandra, an undergraduate student at the Indian Institute of Information Tec
 👯 I’m looking to collaborate on web development projects and contribute to open-source initiatives.
 
 📫 You can reach me through the following channels:
-- Email: [chandrasaitejaadhikarla0804@gmail.com](mailto:chandrasaitejaadhikarla0804@gmail.com)
+- Email: [chandrasaiteja0804@gmail.com](mailto:chandrasaiteja0804@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/chandra-sai-teja-adhikarla/](https://www.linkedin.com/in/chandra-sai-teja-adhikarla/)
 - GitHub: [https://github.com/Chandra0804](https://github.com/Chandra0804)
 
