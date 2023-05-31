@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Chandra, an undergraduate student at the Indian Institute of Information Technology, SriCity. I'm passionate about web development and machine learning and constantly learning new technologies to enhance my skills.
+I'm Chandra Sai Teja Adhikarla, an undergraduate student at the Indian Institute of Information Technology, SriCity. I'm passionate about web development and machine learning and constantly learning new technologies to enhance my skills.
 
 🔭 I’m currently working on honing my web development and machine learning skills and building interesting projects.
 
