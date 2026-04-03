@@ -15,8 +15,5 @@ I'm Chandra Sai Teja Adhikarla, an undergraduate student at the Indian Institute
 
 😄 Pronouns: He/Him
 
-[![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandra0804&show_icons=true&theme=vue-dark)](https://github.com/Chandra0804/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandra0804&layout=donut-vertical&theme=vue-dark&card_width=300)](https://github.com/Chandra0804/github-readme-stats)
 
 Feel free to explore my repositories and don't hesitate to connect with me!
