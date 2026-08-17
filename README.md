@@ -1,19 +1,26 @@
 ### Hi there! 👋
 
-I'm Chandra Sai Teja Adhikarla, an undergraduate student at the Indian Institute of Information Technology, SriCity. I'm passionate about web development and machine learning and constantly learning new technologies to enhance my skills.
+I'm **Chandra Sai Teja Adhikarla**, an AI Developer at [Origon](https://origon.ai/).
 
-🔭 I’m currently working on honing my web development and machine learning skills and building interesting projects.
+I work across the model stack — LLMs, speech and audio models, retrieval-augmented
+generation, and fine-tuning — building agentic systems that run on private
+infrastructure for regulated industries. Most of my time goes to the unglamorous
+part: making models behave reliably once real users and real latency budgets
+are involved.
 
-🌱 I’m currently learning new front-end frameworks and exploring back-end development.
+- 🔭 Building AI agents end to end — retrieval pipelines, real-time voice, and the
+  evaluation harnesses that tell us whether any of it actually works
+- 🌱 Deep in fine-tuning and adaptation, speech recognition and synthesis, and
+  squeezing latency out of inference
+- 💬 Ask me about RAG that survives contact with production, audio model pipelines,
+  or fine-tuning when you don't have infinite data
+- 👯 Open to collaborating on open-source AI/ML projects
 
-👯 I’m looking to collaborate on web development projects and contribute to open-source initiatives.
+**Tech:** Python · PyTorch · Hugging Face Transformers · LangChain · vLLM · FastAPI ·
+vector databases · Docker 
 
-📫 You can reach me through the following channels:
+📫 **Reach me:**
 - Email: [chandrasaiteja0804@gmail.com](mailto:chandrasaiteja0804@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/chandra-sai-teja-adhikarla/](https://www.linkedin.com/in/chandra-sai-teja-adhikarla/)
-- GitHub: [https://github.com/Chandra0804](https://github.com/Chandra0804)
+- LinkedIn: [chandra-sai-teja-adhikarla](https://www.linkedin.com/in/chandra-sai-teja-adhikarla/)
 
 😄 Pronouns: He/Him
-
-
-Feel free to explore my repositories and don't hesitate to connect with me!
